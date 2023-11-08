@@ -67,6 +67,22 @@ export default {
         900: '#084d2d'
       }
     },
+    // fontSize: {
+    //   'display-sm': [
+    //     '0.938rem',
+    //     {
+    //       lineHeight: '2.375rem',
+    //       letterSpacing: '0',
+    //     },
+    //   ],
+    //   'display-xs': [
+    //     '1.5rem',
+    //     {
+    //       lineHeight: '2rem',
+    //       letterSpacing: '0',
+    //     },
+    //   ],
+    // },
     extend: {},
   },
   plugins: [],
