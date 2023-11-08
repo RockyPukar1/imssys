@@ -1,8 +1,3 @@
-# React + Vite
+# IMS Project Figma 1 - https://www.figma.com/file/0DrEk3xQxFKjPEnpuzNFdy/Inventory-Management-Dashboard-(Community)?type=design&node-id=438-1389&mode=design&t=ndjzXj5hgVamzYpi-0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# IMS Project Figma 2 - https://www.figma.com/file/ARJq6hSJrKxw1n5AsZGpJi/Store-Inventory-Management-System-(Community)?type=design&node-id=0-1&mode=design&t=TYRhWNMaa5NuLgWQ-0
