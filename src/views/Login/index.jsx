@@ -15,14 +15,14 @@ const Login = () => {
           <div className="right">
             <div className="w-full">
               <div className="rounded px-8 pt-6 pb-8 mb-4">
-                <form className="bg-white">
+                <form className="bg-white mb-6">
                   <div className="mb-4">
                     <label className="block text-gray-700 text-sm mb-2 text-left" htmlFor="username">
                       Email
                     </label>
                     <input className="appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none" id="username" type="text" placeholder="Enter you email" />
                   </div>
-                  <div className="mb-6">
+                  <div className="mb-4">
                     <label className="block text-gray-700 text-sm mb-2 text-left" htmlFor="password">
                       Password
                     </label>
@@ -38,8 +38,8 @@ const Login = () => {
                     </a>
                   </div>
                 </form>
-                <button className="w-full text-grey-50 bg-primary-600 text-center mb-4">Sign Up</button>
-                <button className="w-full text-grey-50 bg-primary-600 text-center mb-4"><SocialIcon /> Sign in with Google</button>
+                <button className="w-full text-grey-50 bg-primary-600 text-center mb-4 rounded-md p-2">Sign Up</button>
+                <button className="w-full text-center mb-4 rounded-md flex gap-3 items-center justify-center p-3 border"><SocialIcon /> <span>Sign in with Google</span></button>
                 <p className="text-center text-gray-500 text-xs">
                   Don&apos;t have an account? <span className="text-primary-600">Sign up</span>
                 </p>
